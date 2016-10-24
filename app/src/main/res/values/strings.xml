@@ -1,0 +1,8 @@
+<resources>
+    <!-- We store all the text in the strings.xml file so it is easy to
+    translate into other languages -->
+    <string name="app_name">First Project</string>
+    <string name="button_1_text">You Clicked</string>
+    <string name="destroy">destroyer</string>
+    <string name="hello">hello sucker</string>
+</resources>
